@@ -1,0 +1,3 @@
+API keys are on display so it can be used for now, i will remove it later
+challenge 1: selecting an api from langchain, openai and all, since together ai is free thats why it was chosen
+challenge 2: using nlp, since im not good at it, it was tough
